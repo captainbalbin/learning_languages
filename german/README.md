@@ -9,7 +9,7 @@
   - [Lesson 4: "How are you?"](./learning_german_with_anja_notes/beginners_lessons/4.md)
   - [Lesson 1: "Where do you live?"](./learning_german_with_anja_notes/beginners_lessons/5.md)
 - [Lyrics Translations](./lyrics)
-  - [Bei Dir - Kummer](./lyrics/bei_dier_kummer.md)   
+  - [Bei Dir - Kummer](./lyrics/bei_dir_kummer.md)   
 
 ## Resources
 
