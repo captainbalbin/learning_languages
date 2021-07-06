@@ -4,6 +4,8 @@ This is an combination of both learning and teaching. I will show my journey to 
 
 ## Languages
 
-### [Swedish](./swedish/README.me)
+### [German](./german/README.md)
+
+### [Swedish](./swedish/README.md)
 
 ### [Chinese](./chinese/README.md)
