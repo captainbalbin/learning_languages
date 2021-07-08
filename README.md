@@ -6,8 +6,8 @@ Collection of resources for learning language all in one place. Currently suppor
 
 ## Languages
 
-### [German](./german/README.md)
+- [German](./german/README.md)
 
-### [Swedish](./swedish/README.md)
+- [Swedish](./swedish/README.md)
 
-### [Chinese](./chinese/README.md)
+- [Chinese](./chinese/README.md)
