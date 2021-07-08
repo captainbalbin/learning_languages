@@ -5,7 +5,6 @@
 I'm basing currently most of the resources on Fluten Forever's tips and tricks. Not particularly the app (since it does not support Chinese at the momen of writing this), and also to create my own source of learning.
 
 - [The Fluent Forever book](https://fluent-forever.com/book/)
-
 - [Article about Japanese and Chinese Logograms](https://blog.fluent-forever.com/logograms/)
 
 - [Anki](https://apps.ankiweb.net/) for memorising.
