@@ -1,6 +1,6 @@
 # German Deutsch
 
-## Table of Content
+### Table of Content
 
 - [Learning German with Anja](./learning_german_with_anja_notes/beginners_lessons)
   - [Lesson 1: Greetings](./learning_german_with_anja_notes/beginners_lessons/1.md)
