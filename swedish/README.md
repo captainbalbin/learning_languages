@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-- The Basics
+- [The Basics](./the_basics.md)
   - The Alphabet
   - Writing and Pronouncing Vowels
   - The Letters Å, Ä & Ö
