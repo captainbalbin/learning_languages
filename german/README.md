@@ -7,7 +7,7 @@
   - [Lesson 2: "My name is ... "](./learning_german_with_anja_notes/beginners_lessons/2.md)
   - [Lesson 3: "Where are you from?"](./learning_german_with_anja_notes/beginners_lessons/3.md)
   - [Lesson 4: "How are you?"](./learning_german_with_anja_notes/beginners_lessons/4.md)
-  - [Lesson 1: "Where do you live?"](./learning_german_with_anja_notes/beginners_lessons/5.md)
+  - [Lesson 5: "Where do you live?"](./learning_german_with_anja_notes/beginners_lessons/5.md)
 - [Lyrics Translations](./lyrics)
   - [Bei Dir - Kummer](./lyrics/bei_dir_kummer.md)   
 
