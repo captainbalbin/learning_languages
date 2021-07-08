@@ -10,7 +10,7 @@ Collection of resources for learning language all in one place. Currently suppor
 
 Currently includes the language learning books Begegnungen Deutsch A1, A2, and B2. Notes from youtube series
 
-### :se: [Swedish](./swedish/README.md)
+### :sweden: [Swedish](./swedish/README.md)
 
 Includes Rivstart A1, Rivstart A2 textbook and workbook. Currently inludes some notes from Svenska för Invandrare, Sfi, series **Svenska för alla** _(Swedish for all)_. 
 
