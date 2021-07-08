@@ -6,14 +6,14 @@ Collection of resources for learning language all in one place. Currently suppor
 
 ## Languages
 
-### [German](./german/README.md)
+### :de: [German](./german/README.md)
 
 Currently includes the language learning books Begegnungen Deutsch A1, A2, and B2. Notes from youtube series
 
-### [Swedish](./swedish/README.md)
+### :se: [Swedish](./swedish/README.md)
 
 Includes Rivstart A1, Rivstart A2 textbook and workbook. Currently inludes some notes from Svenska för Invandrare, Sfi, series **Svenska för alla** _(Swedish for all)_. 
 
-### [Chinese (Mandarin)](./chinese/README.md)
+### :cn: [Chinese (Mandarin)](./chinese/README.md)
 
 Includes the resources **The Fluent Forever** book, **Logogram** for Chinese (and Japanese), **Anki**, **Pronunciation Trainer**, and **Chinese Radicals**.
